@@ -63,3 +63,4 @@ Je kunt de lasagne 1 dag van tevoren maken tot en met het afbakken in de oven. B
 | vet           | 26 g      |
 
 _*Let op_: deze tabel is in markdown geschreven. Wanneer je dit in HTML maakt, zal de tabel geen styling hebben.
+# frontend-html-css-spinazie-05-22-spinazie.png
